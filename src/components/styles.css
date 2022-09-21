@@ -1,0 +1,9 @@
+.link:hover{
+    display: inline-block;
+    animation: pulse;
+    animation-duration: 3s;
+
+}
+
+
+
